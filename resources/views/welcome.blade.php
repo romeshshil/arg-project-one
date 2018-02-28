@@ -25,6 +25,7 @@
                 height: 100vh;
             }
 
+
             .flex-center {
                 align-items: center;
                 display: flex;
@@ -93,3 +94,5 @@
         </div>
     </body>
 </html>
+
+<!-- Wlecme controller -->

@@ -17,6 +17,7 @@
     <link type="text/css" rel="stylesheet" href="{{ URL::asset('home/css/style.css') }}">
     <script src="{{ URL::asset('home/js/mobile/modernizr.custom.46884.js') }}"></script>
 </head>
+<!-- //dsdfdff -->
 
 <body>
     <!-- header part start -->
